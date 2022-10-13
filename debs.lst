@@ -1,0 +1,6 @@
+build-essential
+make
+git
+python3-pip
+vim
+ctags
