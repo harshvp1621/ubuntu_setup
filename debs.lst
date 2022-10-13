@@ -3,4 +3,5 @@ make
 git
 python3-pip
 vim
-ctags
+exuberant-ctags
+tree
